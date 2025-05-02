@@ -1,0 +1,21 @@
+{
+  "title": "Cognitive Cryptography: A Protocol for Embedding Verifiable Reasoning Chains in AI Output",
+  "creators": [
+    {
+      "name": "Whitney, Daniel"
+    }
+  ],
+  "description": "A conceptual architecture and protocol proposal for embedding latent reasoning structures in AI-generated output. The Cognitive Cryptography system enables trust-layer verification through machine-readable logic chains, using a reference implementation called the CEV protocol.",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "AI verification",
+    "epistemic integrity",
+    "semantic watermarking",
+    "validator chains",
+    "reasoning provenance",
+    "cognitive cryptography",
+    "AI trust architecture"
+  ],
+  "upload_type": "publication",
+  "publication_type": "article"
+}
