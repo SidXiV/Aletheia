@@ -41,4 +41,6 @@ If you're a researcher, cryptographer, language model architect, or governance s
 
 This is a prototype protocol—not a finished solution. We move forward together.
 
+## Discalimer 
 
+“The term ‘Cognitive Cryptography’ is used metaphorically to describe semantic integrity encoding. LT-UIDs in v1.0 are deterministic structure-bound IDs, not cryptographic hashes. Future versions may include hash-bounded or verifiably encrypted trace systems.”
