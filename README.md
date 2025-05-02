@@ -23,6 +23,16 @@ This includes the proposed implementation pattern: the **Custodial Echo Verifica
 
 ---
 
+## 🛡️ Security & Tradeoffs
+
+While Cognitive Cryptography enables verifiable reasoning via latent fingerprinting, it introduces a key tradeoff: reasoning traces may expose internal logic flows. In settings where models process proprietary logic chains, this may constitute an information-theoretic leakage surface.
+
+Current implementations prioritize interpretability and traceability over secrecy. Future iterations may explore obfuscated fingerprinting, homomorphic encapsulation, or zero-knowledge logic disclosures to mitigate model internals exposure during verification.
+
+The protocol favors transparency in diagnostic and civic domains, but implementers should assess privacy boundaries per deployment context.
+
+---
+
 ## 📚 License
 
 This repository is distributed under the **Creative Commons Attribution 4.0 (CC BY 4.0)** license. You are free to use, share, and build upon this work—with attribution.
